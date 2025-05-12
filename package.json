@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    "homepage": "https://your-username.github.io/code-nova-digital",
+    "homepage": "https://NitinKaneri.github.io/code-nova-digital",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
